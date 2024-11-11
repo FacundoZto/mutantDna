@@ -11,8 +11,6 @@ El objetivo de esta API es identificar si una persona es mutante a partir de su 
 - **Node.js**: Entorno de ejecución para JavaScript.
 - **Express**: Framework para la creación de la API.
 - **Jest**: Framework de testing para pruebas unitarias.
-- **ESLint**: Herramienta para mantener la calidad del código.
-- **Prettier**: Formateador de código.
 
 ## Instalación
 
