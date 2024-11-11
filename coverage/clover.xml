@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1731361348411" clover="3.2.0">
+  <project timestamp="1731361348411" name="All files">
+    <metrics statements="17" coveredstatements="17" conditionals="19" coveredconditionals="19" methods="2" coveredmethods="2" elements="38" coveredelements="38" complexity="0" loc="17" ncloc="17" packages="1" files="1" classes="1"/>
+    <file name="checkMutant.js" path="C:\Users\Pc\Documents\Proyectos\mutant-api\src\checkMutant.js">
+      <metrics statements="17" coveredstatements="17" conditionals="19" coveredconditionals="19" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="65" type="stmt"/>
+      <line num="7" count="65" type="stmt"/>
+      <line num="8" count="78" type="stmt"/>
+      <line num="9" count="78" type="stmt"/>
+      <line num="10" count="78" type="cond" truecount="5" falsecount="0"/>
+      <line num="12" count="2" type="stmt"/>
+      <line num="15" count="2" type="stmt"/>
+      <line num="16" count="7" type="stmt"/>
+      <line num="17" count="41" type="cond" truecount="2" falsecount="0"/>
+      <line num="23" count="2" type="stmt"/>
+      <line num="24" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="28" count="1" type="stmt"/>
+      <line num="31" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
