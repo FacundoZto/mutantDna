@@ -42,7 +42,7 @@ module.exports = {
     const humanCount = await Dna.countDocuments({ isMutant: false });
 
     const ratio =
-      humanCount === 0 ? 0 : (countMutantDna / countHumanDna).toFixed(2);
+      humanCount === 0 ? 0 : (mutantCount / humanCount).toFixed(2);
 
     res.json({
       count_mutant_dna: mutantCount,

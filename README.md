@@ -19,7 +19,7 @@ El objetivo de esta API es identificar si una persona es mutante a partir de su 
    git clone https://github.com/tuusuario/mutant-api.git
 2. Navega al directorio del proyecto:
    ```bash
-   cd mutant-api
+   cd mutantDna
 3. Instala las dependencias:
 ```bash
    npm install
