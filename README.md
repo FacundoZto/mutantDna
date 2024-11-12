@@ -5,6 +5,7 @@ Este proyecto es una API para la detección de mutantes en ADN, basada en el ret
 ## Descripción
 
 El objetivo de esta API es identificar si una persona es mutante a partir de su secuencia de ADN, comparando la secuencia dada con una serie de patrones específicos. Un mutante se define como alguien que tiene al menos dos secuencias de 4 bases consecutivas en diagonal, horizontal o vertical que se repiten en su ADN.
+Nota: se incluyen las credenciales para la base de datos de prueba.
 
 ## Tecnologías
 
