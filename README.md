@@ -1,6 +1,6 @@
 # Mutant API
 
-Este proyecto es una API para la detección de mutantes en ADN, basada en el reto técnico propuesto. La API recibe una secuencia de ADN y determina si el individuo es mutante o no, basándose en patrones genéticos predefinidos.
+Este proyecto es una API para la detección de mutantes en ADN. La API recibe una secuencia de ADN y determina si el individuo es mutante o no, basándose en patrones genéticos predefinidos.
 
 ## Descripción
 
