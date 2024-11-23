@@ -1,9 +1,10 @@
 const mongoose = require('mongoose');
+require('dotenv').config();
 
 const dbConfig = async () => {
   try {
     await mongoose.connect(
-      "mongodb+srv://facundozerbato:H1injC5Wl3A4mcwo@clusterprueba.vlu38.mongodb.net/mutantDB?retryWrites=true&w=majority",
+      `mongodb+srv://facundozerbato:${process.env.API_KEY}@clusterprueba.vlu38.mongodb.net/mutantDB?retryWrites=true&w=majority`,
     );
     console.log("Connected to the database");
   } catch(error) {
